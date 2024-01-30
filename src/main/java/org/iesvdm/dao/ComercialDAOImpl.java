@@ -24,7 +24,7 @@ public class ComercialDAOImpl implements ComercialDAO {
 	private JdbcTemplate jdbcTemplate;
 	
 	@Override
-	public void create(Comercial cliente) {
+	public void create(Comercial comercial) {
 		// TODO Auto-generated method stub
 
 	}
